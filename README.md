@@ -40,7 +40,7 @@ NOTE 2: after you type each command, make sure you READ what your command line s
 _ex:_ `1 Alice was here!`  
 
 2. **Collaborator**: add text to line 3 (NOT line 2).  
-_ex:_ `3 Bob was here!`  
+_ex:_ `3 Bob was her`  
 ### IMPORTANT SIDENOTE: There must be one extra line BETWEEN the edits.  Otherwise, you will get a merge conflict.  
 
 3. **Owner**: `add`, `commit`, and `push`. You shouldn't have any issues.  
